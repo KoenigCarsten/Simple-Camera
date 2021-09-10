@@ -36,7 +36,7 @@
     <string name="always_open_back_camera">Anwendung immer mit der Rückkamera starten</string>
     <string name="save_photo_metadata">Exif-Metadaten speichern</string>
     <string name="photo_compression_quality">Fotokomprimierungsqualität</string>
-    <string name="shutter">Verschluss</string>
+    <string name="shutter">Auslöser</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
